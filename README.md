@@ -1,4 +1,4 @@
-# Image preview while select from HTML form
+# Image preview while selecting from HTML form
 
 # Welcome to Image Preview Repository
 

@@ -48,8 +48,8 @@ While you run the project, the outlook will be like:
 
 ![Preview1!](preview1.png "Preview 1")
 
-After selecting the image, the outlook will be like:
+<!-- After selecting the image, the outlook will be like:
 
-![Preview2!](preview2.png "Preview 2")
+![Preview2!](preview2.png "Preview 2") -->
 
 # Hope this might help you in the development journey

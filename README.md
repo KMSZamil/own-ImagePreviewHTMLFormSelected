@@ -48,4 +48,8 @@ While you run the project, the outlook will be like:
 
 ![Project Preview!](preview.png "Project Preview")
 
+After selecting the image, the outlook will be like:
+
+![Project Preview!](preview1.png "Project Preview")
+
 # Hope this might help you in the development journey

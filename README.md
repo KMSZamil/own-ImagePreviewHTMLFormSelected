@@ -46,10 +46,10 @@ $(function() {
 
 While you run the project, the outlook will be like:
 
-![Project Preview!](preview.png "Project Preview")
+![Project Preview!](preview1.png "Project Preview 1")
 
 After selecting the image, the outlook will be like:
 
-![Project Preview!](preview1.png "Project Preview")
+![Project Preview!](preview2.png "Project Preview 2")
 
 # Hope this might help you in the development journey
